@@ -1,31 +1,33 @@
-# computer-science-portfolio
-Hi, I'm Ziyanda Dodwana.
+# 👋 Hi, I'm Ziyanda Dodwana
 
-I'm completing my BSc in Computing at UNISA while working full-time in Credit Control.
+## About Me
 
-This repository documents my journey into Software Development.
+I'm an aspiring Software Developer currently completing a BSc in Computer Science at UNISA.
 
-## Goals
+I have 8 years of experience in Credit Control and SAP, and I'm passionate about building software that solves real business problems.
 
-- Become a Software Developer
-- Build real-world applications
-- Learn modern software engineering
-- Showcase projects to employers
-
-## Projects
-
-- Cash Flow Forecast App (Coming Soon)
-- Credit Control Dashboard
-- Invoice API
-- Expense Tracker
-- Mini ERP System
-- Investment Portfolio Tracker
-
-## Technologies
+## Current Tech Stack
 
 - Python
 - C++
-- React
-- FastAPI
-- PostgreSQL
-- Git & GitHub
+- SQL
+- Git
+- GitHub
+
+## Projects
+
+This repository documents my journey from Computer Science student to Software Developer.
+
+Upcoming projects include:
+
+- Cash Flow Forecast App
+- Credit Control Dashboard
+- Invoice Management API
+- Mini ERP System
+- Personal Finance Tracker
+
+## Goals
+
+- Graduate with my BSc
+- Build a professional software portfolio
+- Become a Software Developer
